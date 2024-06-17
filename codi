@@ -1,0 +1,10 @@
+int main () {
+   int x;
+   int y; // y és manor que x
+   if (y == x + 1) {
+       printf ("Els nombres son consecutius!");
+   }
+   else {
+       printf ("Els nombres no son consecutius!)
+  }
+}
