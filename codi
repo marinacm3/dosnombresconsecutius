@@ -5,6 +5,6 @@ int main () {
        printf ("Els nombres son consecutius!");
    }
    else {
-       printf ("Els nombres no son consecutius!)
+       printf ("Els nombres no son consecutius!");
   }
 }
